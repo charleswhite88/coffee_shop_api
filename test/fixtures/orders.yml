@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_name: MyString
+  total_cost: 9.99
+  paid: MyString
+  status: 1
+
+two:
+  customer_name: MyString
+  total_cost: 9.99
+  paid: MyString
+  status: 1
